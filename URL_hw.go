@@ -130,12 +130,7 @@ func SetPage(pagekey string) {
 		panic(err)
 	}
 }
-func SetCreateTime() {
 
-}
-func ClearList() {
-
-}
 func main() {
 	/*http.Handle("/", srv{})
 	fmt.Println("Listening on port 8080...")
